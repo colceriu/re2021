@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rcolceri.FSRAO\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rcolceri.FSRAO\\.nuget\\packages"
+    ]
+  }
+}
